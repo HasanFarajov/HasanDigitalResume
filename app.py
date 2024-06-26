@@ -142,19 +142,20 @@ st.write("---")
 
 # --- EDUCATION 1
 st.write("🚧", "**Master (SABAH groups) - Artificial Intelligence | Azerbaijan State Oil and Industry University (ASOIU)**")
-st.write("08/2023 - Present")
+st.write("09/2023 - Present")
 st.write(
     """
 - ► Advanced Artificial Intelligence, Computational Intelligence in Engineering, Computer Vision, Machine Learning Technologies, Probability and Statistics.
 - ► Advanced Data Mining, AI and Deep Learning, Data preparation and analysis, Image Processing, Soft Computing.
 - ► Grade: GPA - 4.0 (98.4)
 - ► The language of instruction is English.
+- ► The faculty of SABAH - In order to improve the quality of higher education, provide training in accordance with modern requirements and create a new environment in the higher education system, a chain of groups of educated, qualified and trained (SABAH) students in higher education institutions under the Ministry of Education.
 """
 )
 
 # --- EDUCATION 2
 st.write("🚧", "**Bachelor of Business Administration Program(BBA) - System Engineering | Azerbaijan State Oil and Industry University (ASOIU)**")
-st.write("08/2023 - Present")
+st.write("09/2019 - 06/2023")
 st.write(
     """
 - ► The Joint "Partnership Program to Develop the Bachelor of Business Administration Program (BBA) and Faculty Capabilities" between Azerbaijan State Oil and Industry University (ASOIU) and Georgia State University (GSU) of the USA/Robinson Business School, on the major of "System Engineering" 
