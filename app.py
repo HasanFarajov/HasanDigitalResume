@@ -86,10 +86,10 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
-- 👩‍💻 Programming: Python (Pandas, Numpy, Matplotlib,Seaborn Scikit-learn) SQL.
-- 📊 Data Visulization: PowerBi, MS Excel, Plotly.
-- 📚 Modeling: Logistic regression, linear regression, decition trees.
-- 🗄️ Databases: Oracle,MySQL, MongoDB. 
+- 👩‍💻 Programming: SAP(ABAP), Python(Pandas, Numpy, Matplotlib,Seaborn Scikit-learn), PHP(Laravel), C#, Kotlin, SQL, HTML5/CSS3/JS(React, Angular, Node, Express, JQuery/Ajax).
+- 📊 Data Visulization: PowerBI, MS Excel.
+- 📚 Modeling: Logistic regression, linear regression, decision tree.
+- 🗄️ Databases: Oracle, MySQL, MongoDB. 
 """
 )
 
@@ -135,10 +135,43 @@ st.write(
 """
 )
 
+# --- EDUCATION ---
+st.write('\n')
+st.subheader("EDUCATION")
+st.write("---")
+
+# --- EDUCATION 1
+st.write("🚧", "**Master (SABAH groups) - Artificial Intelligence | Azerbaijan State Oil and Industry University (ASOIU)**")
+st.write("08/2023 - Present")
+st.write(
+    """
+- ► Advanced Artificial Intelligence, Computational Intelligence in Engineering, Computer Vision, Machine Learning Technologies, Probability and Statistics.
+- ► Advanced Data Mining, AI and Deep Learning, Data preparation and analysis, Image Processing, Soft Computing.
+- ► Grade: GPA - 4.0 (98.4)
+- ► The language of instruction is English.
+"""
+)
+
+# --- EDUCATION 2
+st.write("🚧", "**Bachelor of Business Administration Program(BBA) - System Engineering | Azerbaijan State Oil and Industry University (ASOIU)**")
+st.write("08/2023 - Present")
+st.write(
+    """
+- ► The Joint "Partnership Program to Develop the Bachelor of Business Administration Program (BBA) and Faculty Capabilities" between Azerbaijan State Oil and Industry University (ASOIU) and Georgia State University (GSU) of the USA/Robinson Business School, on the major of "System Engineering" 
+- ► The curriculum and syllabi of the BBA program is in conformity with the Georgia State University standards. 
+- ► Thesis: Applying machine learning algorithms for pattern recognition to automate detection of anomalies in internet banking system 
+- ► Grade: GPA 3.9 (94.18)
+- ► The language of instruction is English.
+"""
+)
+
 
 # --- Projects & Accomplishments ---
-st.write('\n')
-st.subheader("Projects & Accomplishments")
-st.write("---")
-for project, link in PROJECTS.items():
-    st.write(f"[{project}]({link})")
+#st.write('\n')
+#st.subheader("Projects & Accomplishments")
+#st.write("---")
+#for project, link in PROJECTS.items():
+#    st.write(f"[{project}]({link})")
+    
+    
+
