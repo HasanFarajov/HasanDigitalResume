@@ -86,8 +86,8 @@ st.write('\n')
 st.subheader("Hard Skills")
 st.write(
     """
-- 👩‍💻 Programming: Python (Pandas, Numpy, Matplotlib,Seaborn Scikit-learn) SQL
-- 📊 Data Visulization: PowerBi, MS Excel, Plotly
+- 👩‍💻 Programming: Python (Pandas, Numpy, Matplotlib,Seaborn Scikit-learn) SQL.
+- 📊 Data Visulization: PowerBi, MS Excel, Plotly.
 - 📚 Modeling: Logistic regression, linear regression, decition trees.
 - 🗄️ Databases: Oracle,MySQL, MongoDB. 
 """
